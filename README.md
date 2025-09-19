@@ -5,5 +5,4 @@ https://github.com/Steveice10/FBI/releases
 https://github.com/astronautlevel2/Anemone3DS/releases/tag/v3.0.1
 https://github.com/BernardoGiordano/Checkpoint/releases/tag/v3.10.1
 https://github.com/mtheall/ftpd/releases/tag/v3.2.1
-https://github.com/PabloMK7/homebrew_launcher_dummy/releases/tag/v1.0
-https://github.com/Universal-Team/Universal-Updater/releases/tag/v3.2.8
+https://github.com/PabloMK7/homebrew_launcher_dummy/releases/tag/v1.0<br>https://github.com/Universal-Team/Universal-Updater/releases/tag/v3.2.8
