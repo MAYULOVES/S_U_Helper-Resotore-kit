@@ -1,5 +1,4 @@
-This is Setup Helper(Finalize_Helper) restore kit.<br>This file was generated from
-https://github.com/d0k3/GodMode9      
+This is Setup Helper(Finalize_Helper) restore kit.<br>This file was generated from<br>https://github.com/d0k3/GodMode9      
 https://github.com/LumaTeam/Luma3DS/releases/tag/v13.3.3
 https://github.com/PretendoNetwork/nimbus/releases/tag/v2.0.0-rc1
 https://github.com/Steveice10/FBI/releases
